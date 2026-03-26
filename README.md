@@ -16,5 +16,7 @@ This project aims to predict Olympic performance using machine learning techniqu
 - NumPy
 - Matplotlib
 
-## 👨‍💻 Team Lead
-Aarav Fangalia
+## 👨‍💻 Team 
+- **Aarav Fangalia** - Team Lead
+- Hrimandeep Singh
+- Vansh Kadiyan
