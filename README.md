@@ -18,5 +18,5 @@ This project aims to predict Olympic performance using machine learning techniqu
 
 ## 👨‍💻 Team 
 - **Aarav Fangalia** - Team Lead
-- Hrimandeep Singh
-- Vansh Kadiyan
+- Hrimandeep Singh - https://github.com/hrimandeepsingh/Python_PBL_HrimandeepSingh.git
+- Vansh Kadiyan - 
